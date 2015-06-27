@@ -56,7 +56,7 @@ function single_blog_block_info() {
  *
  * Third draft!
  *
- * @pararm $delta
+ * @param $delta
  *   The name of the requested block.
  */
 function single_blog_block_view($delta = '') {
